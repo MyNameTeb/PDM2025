@@ -1,3 +1,0 @@
-Gerber files for manufacturing
-- Top layer: PDM2025.GTL
-- Drill file: PDM2025.TXT
